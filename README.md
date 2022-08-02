@@ -1,9 +1,9 @@
-# Data 6 Sample Website
+# Data 6 Course Recap
 
 **Designed by**
 Patrick Mendoza : 08/01/2022
 
-Quality-oriented professional with work experience and a proven knowledge of education administration, mathematical competency, and computer science knowledge . Passionate student with intricate problem-solving skills, and complex computational thinking. Expressive and sound communication as praised by my peers and colleagues. I can be certain to manage multiple tasks simultaneously whilst delivering the utmost quality in service.
+Throughout my Data 6 Course, I was able to learn the fundamentals of the Python Programming Language such as primitive types, functions, return values, for loops, while loops. I was also introduced to algorithmic thinking such as the bubble sort algorithm or merge sort algorithm. I was given the foundation to learn how to create, edit, and delete tables, rows, and columns from datasets. From these manipulations, I can visualize my data via the 2 packages we learned throughout the course: plotly and datascience. I learned how to plot scatterplots, bar charts, line graphs, chloropleth maps, and scatter plot maps. Data C6 has proven itself to be one of the most crucial introductory classes to Data Science and Computer Science as a whole. Thank you to Instructor James Weichert and Will Furtado and respective GSI's and uGSI's for furthering my knowledge of Python and Data Science and Computer Science.
 
 
 ## Data Visualizations Throughout the Course:
