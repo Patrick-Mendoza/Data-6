@@ -29,6 +29,7 @@ Throughout my Data 6 Course, I was able to learn the fundamentals of the Python 
 
 ### Contacts:
 [LinkedIn] (https://www.linkedin.com/in/patrick-mendoza-264877242/)
+<br>
 [Email] p.mendoza6745@gmail.com
 
 
